@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+    <!-- 状态栏 -->
+    <declare-styleable name="BaseModuleStatusBarHeightView">
+        <attr name="form_use_type" format="integer">
+            <enum name="form_use_height" value="0" />
+            <enum name="form_use_padding_top" value="1" />
+        </attr>
+    </declare-styleable>
+
+
+
+
+
+</resources>
